@@ -1,0 +1,46 @@
+*{padding: 0px;
+margin: 0px;}
+
+body{background:#2d2d2d;
+color:gray;
+font-family: Verdana;}
+
+.links{padding:10px; text-align: center;
+}
+.a{margin-top: 10px;}
+.links a{margin-top: 10px;}
+footer{text-align: center;}
+h2,h3{text-align:center; color:#fff;}
+a{color:#fff; text-decoration:none;}
+h1{background-color:#4f4b4b;color:#fff;}
+.a{padding: 90px; text-align: center;}
+
+.Diseños{margin-top: 200px}
+.Des{text-align: center;}
+
+
+
+@media only screen and (max-width: 768px) {
+	.a2 a{padding: 20px; font-size:15px;}
+	.a{padding: 40px;}
+.links2{background: gray;}
+.daw img{width: 1000px; height: 250px;}
+.Des img{width: 160px; height: 160px;}
+	}
+
+
+
+.links2{text-align: center; height: 100px}
+
+.a2{color:#fff; font-size: 20px; padding:100px;}
+
+footer{background-color:#002053;}
+
+
+#Contacto{margin-top: 200px;}
+
+h1{font-size: 20px;}
+
+.Des img{border:solid 2px #008af3;}
+
+img:hover{width: 100%; height: 80%;}
